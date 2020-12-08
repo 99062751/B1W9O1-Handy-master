@@ -28,6 +28,9 @@ body{
     padding-right: 40px;
     padding: 15px;
 }
+.text_menu a{
+    font-size: 12px;
+}
 .menu a:hover {
     background-color:  #ffe718;
     color: #222931;
@@ -58,6 +61,8 @@ body{
     display: block;
     color: #ffffff;
     padding: 12px 16px;
+    font-size: 16px;
+    font-weight: 500;
 }
 .dropdown-content{
     display: none;
@@ -108,10 +113,11 @@ body{
     color: #ffffff;
     font-size: 32px;
     font-weight: bold;
-
     text-align: center;
     align-self: center;
     display: block;
+    font-size: 32px;
+    font-weight: 600;
 }
 
 .whiteblock{
@@ -126,7 +132,7 @@ body{
 .infobtn{
     color: black;
     background-color: #ffffff;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 500;
     text-align: center;
     align-self: center;
@@ -152,11 +158,14 @@ button:hover{
 .ribbontext{
     display: inline-block;
     margin-left: 310px;
+    font-size: 34px;
+    font-weight: 700;
 }
 
 .ribbontext_2{
     display: inline-block;
     margin-left: 80px;
+    font-size: 16px;
 }
 
 .tooltipCNR{
@@ -168,7 +177,14 @@ button:hover{
 .tooltipCNR a{
     color: 222931;
 }
-
+.tip_head{
+    font-size: 22px;
+    font-weight: 600;
+}
+.tip_text{
+    font-size: 14px;
+    font-weight: 600;
+}
 .footer{
     position: relative;
     width: 100%;
@@ -211,10 +227,15 @@ hr{
 }
 .about{
     bottom: 150px;
+    font-size: 24px;
+    font-weight: 600;
 }
 .footer_text1{
     bottom: 150px;
     margin-right: 400px;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
 }
 .contact{
     position: relative;
@@ -253,6 +274,9 @@ span.popup_cont1, span.popup_cont2, span.popup_cont3{
     min-width: 160px;
     top: 48px;
     z-index: 1;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
 }
 
 .marker1:hover, .marker2:hover, .marker3:hover{
@@ -296,14 +320,23 @@ span.marker3:hover  span.popup_cont3{
     text-decoration: none;
     color: #222931;
     display: inline;
+    font-size: 12px;
+    font-weight: 400;
 }
 .p1, .p2{
     display: inline;
     color: #222931;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
 }
 .enter{
     display: inline;
 }
 .space{
     margin-bottom: 100px;
+}
+#koptekst{
+    font-size: 34px;
+    font-weight: 600;
 }
