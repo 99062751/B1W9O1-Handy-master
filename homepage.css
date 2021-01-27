@@ -9,10 +9,9 @@ body{
     margin: 0 auto;
 }
 .logo{
-    position: absolute;
-    top: 0;
-    left: 130;
+    margin-left: 275px;
     margin-top: 10px;
+    margin-bottom: 0px;
 }
 .menu{
     position: relative;
@@ -49,7 +48,6 @@ body{
     transform: rotate(-4deg);
     -ms-transform: rotate(-4deg);
 }
-
 .dropdown{
     display: inline;
 }
@@ -89,9 +87,11 @@ body{
 
 .banner1 {
     background-image: url("img/banner-1.jpg");
+    margin-right: 30px;
 }
 .banner2 {
     background-image: url("img/banner-2.jpg");
+    margin-right: 30px;
 }
 .banner3 {
     background-image: url("img/banner-3.jpg");  
