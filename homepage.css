@@ -84,15 +84,14 @@ body{
     width: 300px;
     height: 220px;
     display: inline-block;
+    margin-right: 30px;
 }
 
 .banner1 {
     background-image: url("img/banner-1.jpg");
-    margin-right: 30px;
 }
 .banner2 {
     background-image: url("img/banner-2.jpg");
-    margin-right: 30px;
 }
 .banner3 {
     background-image: url("img/banner-3.jpg");  
