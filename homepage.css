@@ -48,6 +48,7 @@ body{
     transform: rotate(-4deg);
     -ms-transform: rotate(-4deg);
 }
+
 .dropdown{
     display: inline;
 }
@@ -137,7 +138,7 @@ body{
     text-align: center;
     align-self: center;
     border: 2px solid #ffffff;
-    margin-left: 300px;
+    margin-left: 60px;
     transition-duration: 0.4s;
     border: none;
 }
@@ -175,7 +176,7 @@ button:hover{
     justify-content: center;
 }
 .tooltipCNR a{
-    color: 222931;
+    color: #222931;
 }
 .tip_head{
     font-size: 22px;
@@ -198,7 +199,7 @@ button:hover{
 }
 
 .tooltip:hover{
-    background-color: 222931;
+    background-color: #222931;
     color: #ffffff;
 }
 
@@ -240,20 +241,20 @@ hr{
 .contact{
     position: relative;
     bottom: 265px;
-    left: 1250px;
+    left: 850px;
 }
 
 .i_con{
     width: 1.5%;
     position: relative;
     bottom: 247px;
-    left: 1150px;
+    left: 750px;
     color: #aeb6be;
 }
 .footer_text2{
     position: relative;
     bottom: 285px;
-    left: 1200px;
+    left: 800px;
 }
 footer{
     position: relative;
